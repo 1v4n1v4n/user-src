@@ -1,1 +1,1 @@
-An app to search through Github users built with React Hooks. 
+An app to search through Github users built with *__React Hooks__*. 
